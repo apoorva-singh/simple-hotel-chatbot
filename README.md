@@ -1,12 +1,3 @@
-Welcome to the assignment! In this assignment, we will try to build a simple chatbot for a hotel.
-We will be using the Rasa framework for this assignment. Do not worry if you have no experience in ML or in using Rasa. All that is required for this assignment can be gleaned from the Rasa tutorial or Rasa docs. 
-
-This assignment is intended to test your learning ability and problem-solving skills together with basic coding skills.
-
-Expected time: 4 days
-
-We hope that you have fun learning a new framework and building the chatbot!
-
 # Objective - 
 To build a simple chatbot for a hotel.
 The chatbot should be able to respond to and handle the following basic functionalities
